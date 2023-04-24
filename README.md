@@ -1,7 +1,7 @@
 # FGBC
 Code for the paper entitled: "FGBC: Flexible Graph-based Balanced Classifier for Class-imbalanced Semi-supervised Learning". 
 
-# Dependencies
+## Dependencies
 
 ```
 python3.7
@@ -16,12 +16,12 @@ matplotlib (python3.7 -m pip install matplotlib)
 progress (python3.7 -m pip install progress)
 ```
 
-# How to run
+## How to run
 ```
 python FGBCremix.py --gpu 0 --label_ratio 10 --num_max 500 --imb_ratio 50 --epoch 500 --val-iteration 500 --manualSeed 0 --dataset cifar10 --imbalancetype long --out result
 ```
 
-# Prepare SmallImageNet127 Dataset
+## Prepare SmallImageNet127 Dataset
 see detail in folder prepare_small_imagenet_127
 
 
