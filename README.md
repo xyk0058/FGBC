@@ -36,5 +36,5 @@ Please cite our paper if it is helpful to your work:
 }
 ```
 
-# Acknowledgment
+
 This code is constructed based on Pytorch Implementation of ABC(https://github.com/LeeHyuck/ABC)
