@@ -1,7 +1,7 @@
 # FGBC
 Code for the paper entitled: "FGBC: Flexible Graph-based Balanced Classifier for Class-imbalanced Semi-supervised Learning". 
 
-Dependencies
+# Dependencies
 
 python3.7
 
@@ -35,3 +35,6 @@ Please cite our paper if it is helpful to your work:
   journal={Available at SSRN 4240764}
 }
 ```
+
+# Acknowledgment
+This code is constructed based on Pytorch Implementation of ABC(https://github.com/LeeHyuck/ABC)
