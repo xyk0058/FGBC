@@ -3,6 +3,7 @@ Code for the paper entitled: "FGBC: Flexible Graph-based Balanced Classifier for
 
 # Dependencies
 
+```
 python3.7
 
 torch 1.5.1 (python3.7 -m pip install torch==1.5.1)
@@ -13,7 +14,7 @@ randAugment (python3.7 -m pip install git+https://github.com/ildoonet/pytorch-ra
 tensorboardX (python3.7 -m pip install tensorboadX)
 matplotlib (python3.7 -m pip install matplotlib)
 progress (python3.7 -m pip install progress)
-
+```
 
 # How to run
 ```
